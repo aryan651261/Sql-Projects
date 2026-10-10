@@ -1,0 +1,31 @@
+id,plan_name,description,price,duration
+1,Yearly Basic Plan,"Access to the gym, one entry per day",12/15/1900,12
+2,Yearly Premium Plan,"Access gym and group classes, one entry per day",2/3/1901,12
+3,Yearly Gold Plan,Unlimited access to gym and group classes,5/14/1901,12
+4,6-Month Basic Plan,"Access to the gym, one entry per day for 6 months",7/18/1900,6
+5,6-Month Premium Plan,"Access gym and group classes, one entry per day for 6 months",9/6/1900,6
+6,6-Month Gold Plan,Unlimited access to gym and group classes for 6 months,11/15/1900,6
+7,Monthly Basic Plan,"Access to the gym, one entry per day for one month",2/19/1900,1
+8,Monthly Premium Plan,"Access gym and group classes, one entry per day for one month",3/10/1900,1
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

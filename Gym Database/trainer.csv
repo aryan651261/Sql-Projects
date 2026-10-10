@@ -1,0 +1,11 @@
+id,first_name,last_name,phone,email,specialty,session_price
+1,Michael,Johnson,1122334455,michael.johnson@example.com,Strength Training,75
+2,Emily,Brown,1987654321,emily.brown@example.com,Yoga,60
+3,David,Wilson,1234567890,david.wilson@example.com,Cardio,70
+4,Jessica,Martinez,1555098765,jessica.martinez@example.com,Pilates,65
+5,Christopher,Taylor,1666777888,christopher.taylor@example.com,CrossFit,80
+6,Emma,Garcia,1777888999,emma.garcia@example.com,HIIT,70
+7,Brandon,Anderson,1888999000,brandon.anderson@example.com,Functional Training,75
+8,Madison,Martinez,1999112233,madison.martinez@example.com,Boxing,70
+9,William,Jones,1222333444,william.jones@example.com,Zumba,55
+10,Olivia,Clark,1333444555,olivia.clark@example.com,Pilates,65
