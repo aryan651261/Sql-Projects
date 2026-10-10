@@ -1,0 +1,99 @@
+# Gym Management System – SQL Analysis
+
+## 📌 Project Overview
+
+This project focuses on analyzing a gym management database using SQL to extract meaningful insights about membership plans, gym members, trainers, and personal training sessions.
+
+The project demonstrates practical SQL querying skills by answering business-oriented questions related to membership pricing, trainer specialization, session bookings, and trainer earnings.
+
+The objective is to strengthen SQL fundamentals and develop hands-on experience in querying relational databases to solve real-world business problems.
+
+## 🎯 Project Objectives
+
+- Analyze gym membership plans based on pricing and duration.
+- Retrieve trainer information based on specialization.
+- Explore member membership records and associated plans.
+- Calculate average membership plan prices.
+- Analyze trainer earnings and personal training session bookings.
+- Identify members based on their session booking activity.
+- Examine relationships between members, trainers, and membership plans.
+
+## 🛠️ Technologies Used
+
+- **SQL** – Data querying and analysis
+- **Relational Database Concepts** – Tables, primary keys, foreign keys, and joins
+- **Aggregate Functions** – `AVG()`, `COUNT()`, and other aggregation techniques
+- **Filtering and Sorting** – `WHERE`, `IN`, and `ORDER BY`
+- **Table Joins** – `INNER JOIN` and relational data retrieval
+- **Grouping** – `GROUP BY` for aggregated business insights
+
+## 📊 Business Questions Solved
+
+### 1. Membership Plan Analysis
+Retrieved membership plan names, descriptions, prices, and durations, with plans sorted by price.
+
+### 2. Trainer Specialization Analysis
+Identified trainers specializing in Pilates and Yoga, including their names, email addresses, specializations, and session prices.
+
+### 3. Member Membership Records
+Retrieved member details alongside their associated membership plans, start dates, and end dates.
+
+### 4. Average Plan Price
+Calculated the average price across membership plans and rounded the result to two decimal places.
+
+### 5. Trainer Earnings Analysis
+Calculated estimated trainer earnings based on the number of recorded training sessions and each trainer's session price.
+
+### 6. Training Session Booking Analysis
+Analyzed the number of training sessions booked with each trainer and ranked trainers by session count.
+
+### 7. Member Activity Analysis
+Explored member session-booking activity to identify highly engaged gym members.
+
+### 8. Premium Membership Analysis
+Explored trainer relationships with members who purchased the most expensive membership plan, with the goal of identifying trainers associated with premium-plan members.
+
+## 🧠 SQL Skills Demonstrated
+
+- Writing structured SQL queries
+- Retrieving and filtering records
+- Joining multiple related tables
+- Aggregating data using SQL functions
+- Grouping records to calculate business metrics
+- Sorting query results
+- Applying conditional filters
+- Understanding relationships between members, trainers, plans, and training sessions
+
+## 💼 Business Value
+
+The queries demonstrate how SQL can support gym operations and management by helping stakeholders:
+
+- Understand membership pricing structures.
+- Review trainer specialization and session pricing.
+- Monitor member engagement through session bookings.
+- Estimate revenue generated through personal training sessions.
+- Explore relationships between premium memberships and trainer activity.
+
+## 📂 Project Structure
+
+```text
+gym-management-sql/
+│
+├── README.md
+└── gym_management.sql
+```
+
+*Note: Update the SQL filename in this structure to match the actual filename in your repository.*
+
+## 🚀 Key Takeaways
+
+This project provided hands-on practice in applying SQL to a relational database and translating business questions into structured queries. It strengthened my understanding of joins, aggregate functions, grouping, filtering, and sorting while building a foundation for more advanced SQL analytics.
+
+## 👨‍💻 Author
+
+**Aryan Gatfane**
+
+Aspiring Data Analyst | Data Engineering Enthusiast
+
+[Connect with me on LinkedIn](https://www.linkedin.com/)
+
